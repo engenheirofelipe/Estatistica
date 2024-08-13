@@ -1,0 +1,9 @@
+A colheita da agua é feito e levado para amostras que são levadas ao laboratório para medir a qualidade da água.
+
+Turvidez é um índice para entender como está a agua visualmente.
+
+No código a coluna 
+
+    Estação : qualitativo - nominal
+    Manganês : Quantitativo -  Contínuo
+    Turbidez : Quantitativo - Contínuo

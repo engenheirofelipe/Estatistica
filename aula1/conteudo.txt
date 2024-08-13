@@ -1,0 +1,43 @@
+O que é estatística ?
+
+Ciência que  estuda a coleta, a organização, a análise e registro de dados por amostras.
+
+Utiliza desde a antiguidade, quando se registravam os nascimentos e as mortes das  pessoas, é um método de pesquisa fundamental para tomar decisões.
+Isso  porque fundamenta suas conclusões nos estudos realizados.
+
+O foco é estatística inferencial (ou dedutiva) 
+
+- Teoria de probabilidade
+- Estatística descritiva
+- Técnica de amostragem
+
+Tipos de dados 
+
+Qualitativos.
+
+- Sem ordem nominais : Nomes em geral
+- Ordenados - Ordinais : 
+
+Quantitativos.
+
+-  Valor inteiro - Discretos
+-  Intervalo de números - Contínuas : Infinitos valores
+
+Média 
+
+Outlier : Dado anômalo dentro de um conjunto, esse conjunto vai depender de qual será , pode ser um banco de dados.
+
+Mediana
+
+O que está no meio da fila.
+
+Valor que divide o conjunto de dados em 50% abaixo dele e 50% acima dele
+
+Moda
+
+Pico da distribuição, valor mais provável.
+
+
+Spoiler do Checkpoint-  Banco de dados em csv e responder perguntas. 
+
+Irá avaliar o racional 
