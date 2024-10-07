@@ -1,0 +1,31 @@
+Resumo
+    Noção de inferência : Inferir o todo. Entender o problema como um todo. Inferir de uma parte no todo. 
+    Exemplo. Pesquisa eleitoral : 4000 pessoas entrevistadas para  inferir no total de população.
+
+Box Plot
+
+    Se jogar fora a amostra e coletar outra, o resultado  da variavel muda  (com uma certa probabilidade). Por isso chamaremos elas de variaveis aleatórias.
+
+    Variável aleatória x:
+
+    Média : 17.55
+    Mediana : 10.00
+    Moda: 7.26
+
+    3 : Primeiro quartio
+
+    10 : segundo quartio
+
+    32 : terceiro quartio
+
+    1,2,3,5,8,10,11,15,32,43,63
+
+    Quanto maior a caixa mais disperso ao redor do centro 
+    O que divide a caixa é a Mediana
+    Pra tras do QI e pra frente do Q3 estão os fios de bigode 
+
+    O gráfico começa  no Q1  e termina no Q3.
+
+    Lembrar de assistir os videos 
+
+    
